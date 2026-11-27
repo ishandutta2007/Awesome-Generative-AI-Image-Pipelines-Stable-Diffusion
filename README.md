@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Image-Pipelines-Stable-Diffusion/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Image-Pipelines-Stable-Diffusion?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Image-Pipelines-Stable-Diffusion/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Image-Pipelines-Stable-Diffusion?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Image-Pipelines-Stable-Diffusion/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-Image-Pipelines-Stable-Diffusion?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -63,9 +63,9 @@ The market dynamics exhibit a **bifurcated structure**: the proprietary SaaS con
 
 ## 💻 Open-Source GitHub Projects
 
-*Leading open-source diffusion interfaces, node-graph engines, foundational model weights, and conditioning tools — sorted descending by GitHub Star Count.*
+*Leading open-source diffusion interfaces, node-graph engines, foundational model weights, and conditioning tools — sorted descending by GitHub Stars_Count.*
 
-| Project | Stars | Category / Stack | Description |
+| Project | GitHub_Stars | Category / Stack | Description |
 | :--- | :---: | :--- | :--- |
 | **[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** | <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers"><img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white" alt="AUTOMATIC1111 Stars" /></a> | 🎛️ Comprehensive WebUI | The foundational browser interface for Stable Diffusion (A1111) with extensive extension ecosystem. |
 | **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** | <a href="https://github.com/comfyanonymous/ComfyUI/stargazers"><img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="ComfyUI Stars" /></a> | ⚡ Modular Node Graph | The most powerful, modular node-based diffusion execution engine, backend, and API for SD & FLUX. |
@@ -107,7 +107,7 @@ Contributions are welcome and highly appreciated! To submit a new project, libra
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-pipeline`).
-3. 📝 Add your project into the corresponding table preserving descending sort order (Valuation/Revenue for SaaS, GitHub Stars for Open-Source). Ensure factual information with clickable documentation links.
+3. 📝 Add your project into the corresponding table preserving descending sort order (Valuation/Revenue for SaaS, GitHub_Stars for Open-Source). Ensure factual information with clickable documentation links.
 4. 🚀 Push changes and open a Pull Request.
 
 ---
